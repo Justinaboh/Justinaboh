@@ -201,13 +201,18 @@ A multi-user app that finds and scores client and job leads automatically, with 
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=figma,ts,js,react,vite,tailwind,threejs,html,css&perline=9" alt="Design and frontend" />
-<br/>
-<img src="https://skillicons.dev/icons?i=nodejs,python,postgres,sqlite,docker,git,github,vercel,vscode&perline=9" alt="Backend and tools" />
+**Languages & Web**  
+<code>TypeScript</code> <code>Rust</code> <code>HTML5</code> <code>JavaScript</code> <code>Vue.js</code> <code>Web3.js</code> <code>Next.js</code> <code>Tailwind CSS</code> <code>Vite</code>
+
+**Cloud & Hosting**  
+<code>Cloudflare</code> <code>Vercel</code> <code>Render</code> <code>AWS</code> <code>Azure</code> <code>Firebase</code> <code>Google Cloud</code> <code>Netlify</code>
+
+**Design & Collaboration**  
+<code>Adobe</code> <code>Figma</code> <code>Framer</code> <code>Adobe Fonts</code> <code>GitHub</code> <code>GitLab</code> <code>Notion</code> <code>Trello</code>
 
 <br/><br/>
 
-<sub><b>Also:</b> Zustand · PptxGenJS · Anthropic API · Agent-native frameworks · Design tokens and systems</sub>
+<sub><b>Also:</b> React · Three.js · Node.js · Python · PostgreSQL · SQLite · Docker · Zustand · PptxGenJS · Anthropic API · Agent-native frameworks · Design tokens and systems</sub>
 
 </div>
 
